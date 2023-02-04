@@ -27,7 +27,7 @@ It recommends appropriate books to users based on popularity and user interests.
  - Create a folder and open it
  - For windows: Open git bash / For Linux: Open terminal and cd to that folder 
  - Clone the repository from link :  
-```git clone https://github.com/neha067/Book-recommender-engine.git```
+```git clone https://github.com/SunnyChaware/Book_rec.git```
 - setup a virtual environment and install the requirements : 
 ```pip install -r requirements.txt```
 - Now, run the  app.py file and the development server will start
@@ -35,7 +35,7 @@ It recommends appropriate books to users based on popularity and user interests.
 
 ### Guide to contribute :
 - Set original repo as your upstream remote : 
-```git remote add upstream https://github.com/neha067/Book-recommender-engine.git```
+```git remote add upstream https://github.com/SunnyChaware/Book_rec.git```
 - Pull updates from upstream : 
 ```git pull upstream```
 - Make changes locally and push it your forked copy of the project 
